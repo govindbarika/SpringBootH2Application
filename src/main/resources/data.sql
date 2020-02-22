@@ -1,0 +1,1 @@
+insert into student values(1111, 'ravi', 'mumbai');
